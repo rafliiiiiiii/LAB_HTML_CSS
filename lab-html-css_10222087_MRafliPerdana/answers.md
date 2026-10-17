@@ -31,17 +31,14 @@ Salin template berikut ke `answers.md`. Isi sambil mengerjakan.
 
 ## Bagian 1: Pemanasan
 
-1.
+1.`nav a.active:hover { color: red; }`
+-Selector = Nav a.avtive:hover
+-Deklarasi = color : red ;
+-Property = color
+-Value = red
+-Pseudo-code = :hover
+
 2.
-3.
-4.
-5.
-
-## Bagian 3: Prediksi Selector Golf
-
-P1.
-P2.
-Setelah diuji (hasil sebenarnya):
 
 ## Bagian 4: Box model
 
