@@ -38,7 +38,15 @@ Salin template berikut ke `answers.md`. Isi sambil mengerjakan.
 -Value = red
 -Pseudo-code = :hover
 3.Jawabannya adalah A (dan B mungkin)
-4.warna biru, karena hierarki h1 lebih tinggi dari pada class dan id 5.<p>Hello <strong>world</p></strong> ini salah, yang benarnya adalah <p><strong>Hello World<strong><p>
+4.warna biru, karena hierarki h1 lebih tinggi dari pada class dan id
+
+5.<p>Hello <strong>world</p></strong> ini salah, yang benarnya adalah <p><strong>Hello World<strong><p>
+
+## Bagian 3: Prediksi Selector Golf
+
+P1.
+P2.
+Setelah diuji (hasil sebenarnya):
 
 ## Bagian 4: Box model
 
